@@ -4,7 +4,7 @@ A simple random number generator built using HTML, CSS and JavaScript.
 ---
 
 ### Purpose?
-A mini project to learn the usage of math functions.
+A mini project to learn the usage of math functions in JavaScript.
 
 ----
 
