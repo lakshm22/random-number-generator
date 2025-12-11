@@ -12,6 +12,7 @@ A mini project to learn the usage of math functions in JavaScript.
 - Generates a random number between 100 and 999
 - Easy to use
 - Instant output
+- Reset the number to start fresh
 
 ----
 
