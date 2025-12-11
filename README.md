@@ -1,10 +1,17 @@
-# Simple Counter
+# 3 - Digit Random Number Generator
 A simple random number generator built using HTML, CSS and JavaScript.
 
 ---
 
 ### Purpose?
 A mini project to learn the usage of math functions in JavaScript.
+
+----
+
+## Features
+- Generates a random number between 100 and 999
+- Easy to use
+- Instant output
 
 ----
 
